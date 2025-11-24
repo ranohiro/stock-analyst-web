@@ -1,0 +1,22 @@
+# Discord Bot Core
+discord.py
+
+# Data Processing & Analysis
+pandas
+numpy
+
+# Visualization (Charting)
+matplotlib
+mplfinance
+
+# Technical Analysis (TA) library
+pandas-ta
+
+# Environment and Utility
+python-dotenv
+requests
+beautifulsoup4
+
+# AI/LLM Framework (OpenAI and Google Gemini)
+openai
+google-generativeai

@@ -1,0 +1,17 @@
+# APIキーなどの機密情報
+.env
+
+# Pythonのキャッシュファイル
+__pycache__/
+*.py[cod]
+
+# Macの不要なシステムファイル
+.DS_Store
+
+# 生成された画像の保存先
+images/
+
+# 仮想環境フォルダ（ローカル用）
+venv/
+env/
+.venv/
