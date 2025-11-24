@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Discord Bot (Package Mode)",
+            "type": "python",
+            "request": "launch",
+            "module": "src.main", // <-- main.pyをパッケージモジュールとして実行
+            "cwd": "${workspaceFolder}", // <-- 実行時のカレントディレクトリをプロジェクトのルートに設定 (重要!)
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "pythonPath": "${command:python.interpreterPath}" // <-- venvのPythonを使う
+        }
+    ]
+}
